@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(36, 36, 78) ;
+    padding: 20px 0;
+}
+
+ul{
+    list-style-type: none;
+    display:flex;
+    gap: 16px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.introduction{
+    display: flex;
+    background-color: rgb(36, 36, 78) ;
+    padding: 20px 0;
+}
+
+.employees{
+    display: flex;
+}
+
+.cta{
+    display: flex;
+}
