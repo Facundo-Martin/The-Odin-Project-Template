@@ -88,23 +88,29 @@ a{
 }
 
 .cta{
-    display:flex;
-    align-items: center;
+    display: flex;
     justify-content: center;
 }
 .modal{
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 25px;
-    max-width: 500px;
-    margin: auto;
-    background-color: midnightblue;
+    gap: 200px;
+    max-width: 90%;
+    margin: 100px;
+    background-color: rgb(76, 112, 231);
     
 }
 
 .modal-left{
     text-align: left;
-    max-width: 50%;
+    max-width: 60%;
+    color: white;
+}
+
+footer{
+    background-color: rgb(36, 36, 78);
+    padding: 8px;
+    color: white
 }
 
