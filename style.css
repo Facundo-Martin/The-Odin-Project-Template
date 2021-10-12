@@ -88,5 +88,23 @@ a{
 }
 
 .cta{
-    display: flex;
+    display:flex;
+    align-items: center;
+    justify-content: center;
 }
+.modal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+    max-width: 500px;
+    margin: auto;
+    background-color: midnightblue;
+    
+}
+
+.modal-left{
+    text-align: left;
+    max-width: 50%;
+}
+
